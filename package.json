@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "sass": "^1.53.0"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
